@@ -1,3 +1,3 @@
-# Welcome.
+-># Welcome to my homepage! #<-
 
-Seun Williams is the GOAT.
+-> ## Please follow me on all my social media networks! <-
