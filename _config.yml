@@ -1,7 +1,8 @@
 title: Boko the Bobcat
 description: Official Mascot of Texas State University
 theme: jekyll-theme-cayman
-show_downloads: true
+show_downloads: false
+social: true
 
 # URLs
 booking:
