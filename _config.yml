@@ -1,2 +1,20 @@
- theme: jekyll-theme-cayman
- show_downloads: true
+title: Boko the Bobcat
+description: Official Mascot of Texas State University
+theme: jekyll-theme-cayman
+show_downloads: true
+
+# URLs
+booking:
+  link: #to be added
+
+
+# Social Media
+author: "Boko"
+school: Texas State University
+image: /Boko.png
+twitter:
+  username: TXSTBoko
+instagram:
+  username: TXSTBoko
+snapchat:
+  username: TXSTBoko
